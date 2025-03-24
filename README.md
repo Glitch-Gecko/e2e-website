@@ -1,4 +1,5 @@
-# minecraft-web-portal
+# e2e-website
+Website for my e2e server using minecraft-web-portal
 A clean and simple Minecraft "portal" website template.
 
 Available on SpigotMC and BuiltByBit:
